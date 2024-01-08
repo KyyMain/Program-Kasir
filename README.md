@@ -2,4 +2,7 @@
 # Kode Oleh Eky Fikri Yamansyah
 
 ## Program
-[!gambar]
+![gambar](dokumentasi/gg.png)
+
+### Output
+![gambar](dokumentasi/ot.png)
